@@ -1,0 +1,19 @@
+.header {
+	text-align: center;
+}
+.Desc {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
+.form {
+	margin: 25px;
+	width: 1300px;
+  	height: 200px;
+  	display: flex;
+  	justify-content: center;
+}
+.inpfield {
+	padding: 2px;
+	margin: 5px;
+}
